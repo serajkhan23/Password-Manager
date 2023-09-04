@@ -1,0 +1,10 @@
+table,td,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.container
+{
+    max-width: 80vw;
+    margin: 23px auto;
+
+}
